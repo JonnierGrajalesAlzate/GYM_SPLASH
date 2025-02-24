@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.frmClientes.resources
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.frmListado.resources
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.frmServicios.resources
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\CLASE24\CapasSQL\Presentacion\obj\Debug\Presentacion.pdb
